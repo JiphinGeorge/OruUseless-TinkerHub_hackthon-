@@ -64,4 +64,4 @@ Team Contributions
 - Ankith: Created the main page, handled documentation, and came up with the project idea.
 - Sivalakshmi: Created the Do Not Press Button and the Never-Ending Progress Bar, and suggested some CSS improvements.
 
-Feel free to add the screenshots and any other details you want!
+
